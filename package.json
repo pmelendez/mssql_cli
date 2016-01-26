@@ -1,0 +1,28 @@
+{
+  "name": "mssql_cli",
+  "version": "1.0.0",
+  "description": "A command-line client for MS-SQL Server",
+  "main": "mssql_cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmelendez/mssql_cli.git"
+  },
+  "keywords": [
+    "ms",
+    "sql",
+    "server",
+    "mssql",
+    "cli",
+    "command-line",
+    "client"
+  ],
+  "author": "Pedro Melendez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pmelendez/mssql_cli/issues"
+  },
+  "homepage": "https://github.com/pmelendez/mssql_cli#readme"
+}
